@@ -11,7 +11,7 @@ const USER_CONFIG = {
   APP_ID: 'wxf868c48919c3fd21',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '6ac3c5d9f015001fc2a4bb8f5d9992df',
+  APP_SECRET: 'd6a1dfa62937e8e9562c935f5459263c',
 
   PROVINCE: '广东',
   CITY: '惠州',
