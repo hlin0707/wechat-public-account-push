@@ -25,7 +25,7 @@ const USER_CONFIG = {
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'OniggRiNlPWXGQB3uIdvQeXqBWwwwesAqYV_IXBH_zY',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
-      horoscopeDate: '5-4',
+      horoscopeDate: '05-04',
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
@@ -39,11 +39,11 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'meet_day', date: '2022-09-08' },
-        // 结婚纪念日
-        { keyword: 'hand_day', date: '2022-09-09' },
-        // 结婚纪念日
-        { keyword: 'love_day', date: '2022-09-09' },
+        { keyword: 'meet_day', date: '2023-04-19' },
+        // 牵手
+        { keyword: 'hand_day', date: '2023-05-28' },
+        // 相恋
+        { keyword: 'love_day', date: '2023-06-11' },
       ],
     },
   ],
