@@ -40,10 +40,10 @@ const USER_CONFIG = {
         },
         {
           type: '节日', name: '情人节', year: '2024', date: '02-14',
-        }，
+        },
         {
           type: '节日', name: '我爱你', year: '2024', date: '05-20',
-        }
+        },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
@@ -77,11 +77,11 @@ const USER_CONFIG = {
           type: '*节日', name: '七夕', year: '2023', date: '07-07',
         },
         {
-          type: '节日', name: '情人节', year: '2023', date: '02-14',
-        }，
+          type: '节日', name: '情人节', year: '2024', date: '02-14',
+        },
         {
-          type: '节日', name: '我爱你', year: '2023', date: '05-20',
-        }
+          type: '节日', name: '我爱你', year: '2024', date: '05-20',
+        },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
